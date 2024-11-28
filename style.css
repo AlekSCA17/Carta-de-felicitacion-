@@ -115,7 +115,7 @@ body.nuevo-fondo {
 }
 
 .rosado {
-  width: 400px; /* Ajusta el tamaño de la imagen */
+  width: 350px; /* Ajusta el tamaño de la imagen */
   height: auto; /* Mantiene las proporciones de la imagen */
   border-radius: 8px; /* Bordes redondeados, opcional */
 }
