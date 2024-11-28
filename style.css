@@ -98,8 +98,7 @@ h2{
 .imagen-carta {
   text-align: center; /* Centra la imagen horizontalmente */
   margin-top: 40px;
-  width: 340px;
-
+  margin-left: -60px;
 }
 
 
@@ -116,7 +115,7 @@ body.nuevo-fondo {
 }
 
 .rosado {
-  width: 450px; /* Ajusta el tamaño de la imagen */
+  width: 400px; /* Ajusta el tamaño de la imagen */
   height: auto; /* Mantiene las proporciones de la imagen */
   border-radius: 8px; /* Bordes redondeados, opcional */
 }
