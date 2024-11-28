@@ -98,6 +98,8 @@ h2{
 .imagen-carta {
   text-align: center; /* Centra la imagen horizontalmente */
   margin-top: 40px;
+  width: 340px;
+
 }
 
 
