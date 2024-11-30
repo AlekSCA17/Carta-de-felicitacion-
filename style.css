@@ -19,7 +19,7 @@ body{
 }
 
 .imagen-container {
-  max-width: auto; /* La imagen no será más ancha que su contenedor */
+  max-width: -100%; 
   height: 270px; /* Mantiene la proporción */
   display: block; /* Elimina espacios blancos alrededor de la imagen */
   margin: 0 auto; /* Centra la imagen dentro del contenedor */
