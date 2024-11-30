@@ -19,8 +19,8 @@ body{
 }
 
 .imagen-container {
-  height: 270px; /* Mantiene la proporción */
-  margin: 20px 0 20px -120px; /* Mueve el contenedor hacia la izquierda 50px */
+  height: 240px; /* Mantiene la proporción */
+  margin: 20px 0 20px -30px; /* Mueve el contenedor hacia la izquierda 50px */
   display: block; /* Elimina espacios blancos alrededor de la imagen */
   text-align: center; /* Centra la imagen horizontalmente */
 }
