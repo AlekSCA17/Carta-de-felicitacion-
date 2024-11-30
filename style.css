@@ -20,7 +20,7 @@ body{
 
 .imagen-container {
   max-width: auto; /* La imagen no será más ancha que su contenedor */
-  height: 300px; /* Mantiene la proporción */
+  height: 270px; /* Mantiene la proporción */
   display: block; /* Elimina espacios blancos alrededor de la imagen */
   margin: 0 auto; /* Centra la imagen dentro del contenedor */
   text-align: center; /* Centra la imagen horizontalmente */
