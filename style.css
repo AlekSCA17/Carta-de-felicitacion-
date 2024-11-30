@@ -3,7 +3,7 @@ h2 {
   color: rgb(240, 61, 126);
   font-size: 20px;
   text-align: center;
-  margin-top: 120x; /* Estilo general para h2 */
+  margin-top: 120px; /* Estilo general para h2 */
 }
 
 .titulo-principal{
@@ -11,6 +11,7 @@ h2 {
   font-size: 20px;
   text-align: center; 
   margin-top: 120px;
+  margin-left: 50px;
 }
 
 body{
