@@ -18,8 +18,12 @@ body{
 }
 
 .imagen-container {
+  max-width: 120%; /* La imagen no será más ancha que su contenedor */
+  height: auto; /* Mantiene la proporción */
+  display: block; /* Elimina espacios blancos alrededor de la imagen */
+  margin: 0 auto; /* Centra la imagen dentro del contenedor */
   text-align: center; /* Centra la imagen horizontalmente */
-  margin-top: -340px;
+  margin-top: 20px;
 }
 
 button {
