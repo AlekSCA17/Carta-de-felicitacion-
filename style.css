@@ -11,7 +11,7 @@ h2 {
   font-size: 20px;
   text-align: center; 
   margin-top: 120px;
-  margin-left: 130px;
+  margin-left: 70px;
 }
 
 body{
@@ -19,8 +19,8 @@ body{
 }
 
 .imagen-container {
-  max-width: 50%; /* La imagen no será más ancha que su contenedor */
-  height: 280px; /* Mantiene la proporción */
+  max-width: auto; /* La imagen no será más ancha que su contenedor */
+  height: 300px; /* Mantiene la proporción */
   display: block; /* Elimina espacios blancos alrededor de la imagen */
   margin: 0 auto; /* Centra la imagen dentro del contenedor */
   text-align: center; /* Centra la imagen horizontalmente */
