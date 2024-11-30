@@ -19,8 +19,8 @@ body{
 }
 
 .imagen-container {
-  max-width: 120%; /* La imagen no será más ancha que su contenedor */
-  height: auto; /* Mantiene la proporción */
+  max-width: 50%; /* La imagen no será más ancha que su contenedor */
+  height: 280px; /* Mantiene la proporción */
   display: block; /* Elimina espacios blancos alrededor de la imagen */
   margin: 0 auto; /* Centra la imagen dentro del contenedor */
   text-align: center; /* Centra la imagen horizontalmente */
