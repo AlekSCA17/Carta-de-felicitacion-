@@ -92,16 +92,17 @@ button {
 /* Estilos para principal.html */
 
 h2{
-  color: rgb(213, 155, 255);
+  color: rgb (240, 61, 126);
   font-size: 30px;
   text-align: center; 
-  margin-top: -60px;
+  margin-top: 50px;
 }
 
 .imagen-carta {
+  height: 240px; /* Mantiene la proporción */
+  margin: 140px 0 50px 10px; /* Mueve el contenedor hacia la izquierda 50px */
+  display: block; /* Elimina espacios blancos alrededor de la imagen */
   text-align: center; /* Centra la imagen horizontalmente */
-  margin-top: 40px;
-  margin-left: -60px;
 }
 
 
